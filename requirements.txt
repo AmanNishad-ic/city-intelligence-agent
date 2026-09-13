@@ -1,0 +1,59 @@
+# Core LLM providers
+openai
+mistralai
+
+# LangChain core + provider integrations
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-mistralai
+langchain-chroma
+langchain-text-splitters
+
+# Vector database
+chromadb
+
+# Embeddings / local model support
+sentence-transformers
+transformers
+torch
+tiktoken
+
+# Document loading and parsing
+pypdf
+pymupdf
+pdfplumber
+unstructured
+python-docx
+openpyxl
+beautifulsoup4
+lxml
+html2text
+
+# Environment and configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# API / backend (optional but useful for RAG apps)
+fastapi
+uvicorn[standard]
+python-multipart
+
+# HTTP clients
+requests
+httpx
+
+# Data handling and utilities
+numpy
+pandas
+tenacity
+tqdm
+
+# Tokenizers / NLP utilities
+nltk
+langchain_huggingface
+streamlit
+torchvision
+torchcodec
